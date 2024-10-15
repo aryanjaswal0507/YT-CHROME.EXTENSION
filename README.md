@@ -10,7 +10,7 @@ This Chrome extension allows users to adjust the volume and bass of YouTube vide
 
 ## Screenshots
 
-![Screenshot of the Extension](sample.png) <!-- Replace with an actual screenshot if available -->
+![Screenshot of the Extension](SAMPLE.png) <!-- Replace with an actual screenshot if available -->
 
 ## Installation
 
